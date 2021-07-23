@@ -22,7 +22,6 @@
     "stylelint-declaration-use-variable": "^1.7.2",
     "stylelint-order": "^4.1.0",
     "stylelint-scss": "^3.18.0",
-    "svelte": "^3.34.0"
   },
   "type": "module"
 }

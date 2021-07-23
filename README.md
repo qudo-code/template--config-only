@@ -1,4 +1,5 @@
-# project-boilerplate--config-only
+# Project Configs
+Common config files I use across projects.
 - Babel config
 - ESLint config
 - Stylelint config

@@ -9,7 +9,7 @@ Common config files I use across projects.
 - [Stylelint](https://marketplace.visualstudio.com/items?itemName=stylelint.vscode-stylelint)
 
 ### Optional
-Add these settings to `.vscode/settings.json` to enable auto fix/format on save. Omited by default to avoid conflicts with prettier. 
+Add these settings to `.vscode/settings.json` to enable auto fix/format on save. Omited by default to avoid conflicts with Prettier. 
 
 ```json
 "editor.codeActionsOnSave": {

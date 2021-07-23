@@ -1,4 +1,4 @@
 # project-boilerplate--config-only
 - Babel config
-- EsLint config
-- Stylelint congig
+- ESLint config
+- Stylelint config
